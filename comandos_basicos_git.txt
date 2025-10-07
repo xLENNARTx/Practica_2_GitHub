@@ -1,7 +1,7 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
-Nombre:
-Matrícula:
+Nombre: Jose Leonardo
+Matrícula: 2242041598
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
